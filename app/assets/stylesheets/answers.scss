@@ -1,0 +1,25 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.answer {
+  background: rgb(254,255,225);
+  display: flex;
+  border-left: 4px ridge gray;
+  height: 80px;
+  width: 500px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.flex {
+  display: flex;
+  border-left: 4px ridge gray;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.ycoach {
+  text-align: left;
+}
